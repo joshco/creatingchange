@@ -1,0 +1,13 @@
+body {
+	font-size: 16px;
+}
+.marquee {
+	min-height: 320px;
+}
+.image-flip {
+	display:none;
+}
+
+.image-visible {
+	display:inherit;
+}
