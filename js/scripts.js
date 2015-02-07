@@ -1,10 +1,7 @@
 $(document).ready(function() {
-    $(".image").click(function() {
    
    window.setTimeout(rotator,2000);
 
-
-    });
 });
 
 function rotator() {
